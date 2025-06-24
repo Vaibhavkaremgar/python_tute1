@@ -1,0 +1,19 @@
+Modules and PIP
+module means using the code written by others in our code in this case we use modules
+Modules are of 2 types 
+1.Built in modules --------> These are the built in modules in the python 
+2. external Modules-----> these are the modules written and developed by others and we use them
+
+PIP ----> PIP installs packages
+
+what ever the files or packages that we need will be installed in python using the pip 
+comments escape sequences and print statements
+
+comments --------> # is for single line cmment and """ """ this is for multi line comments
+escape sequences---> 
+\n for new line
+\t for tab space
+\\ for backslash (a\b)
+\" for double quotes
+\' for single quotes
+
