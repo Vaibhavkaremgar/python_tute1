@@ -1,7 +1,7 @@
-a = 'vaibhav'
-b = " reddy"
-c = '''    He came from a village located near bhainsa    '''
-age = 25
+# a = 'vaibhav'
+# b = " reddy"
+# c = '''    He came from a village located near bhainsa    '''
+# age = 25
 
 # print(a[0])
 # print(b[-3])
@@ -55,12 +55,12 @@ age = 25
 
 # print(f"{greeting}, {language} Learner\nI am \"{status}\"")
 
-main = ("a","e","i","o","u")
-letter = "vaibhav"
+# main = ("a","e","i","o","u")
+# letter = "vaibhav"
 
-for i in letter:
-    if i in main:
-        print(i)
+# for i in letter:
+#     if i in main:
+#         print(i)
 # print(letter[::-1])
 # print(letter[2::])
 
@@ -69,3 +69,19 @@ for i in letter:
 # for i in name:
 #     result.append(i)
 # print(result)
+
+# def myfunc(args):
+#     result = ''
+#     for i in enumerate(args) :
+#         if i % 2 == 0:
+#             result += args[i].lower()
+#         else:
+#             result += args[i].upper()
+#     return result
+# print(myfunc("VaIbHaV123 RedDy"))
+# Create a list of numbers:
+
+words = ['banana', 'apple', 'kiwi', 'pineapple', 'grape']
+
+for word in words:
+    print(word,len(word))
