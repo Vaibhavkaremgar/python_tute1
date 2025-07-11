@@ -47,11 +47,10 @@
 #             return False
 #     return True
 
-# for num in range(1,238):
-#     if prime_num(num):
-#         prime.append(num)
-# print("the prime numbers are:-",prime)
-
+for num in range(1,238):
+    if prime_num(num):
+        prime.append(num)
+print("the prime numbers are:-",prime)
 def vowels(word):
     vowel = ("a","e","i","o","u")
     for i in word:
